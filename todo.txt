@@ -1,0 +1,8 @@
+==========TODO=============
+Here is a list of improvements to this simple script.
+
+1. Remove the dependency for displaying table which currently uses texttable - this should have no dependencies at all
+2. Print/output in colour to the terminal
+3. Add more that a single domain lookup
+4. Create a setup script for local installation
+5. Write the help function with usage information... and improve the README.md file. 
